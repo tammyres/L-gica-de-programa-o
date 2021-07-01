@@ -6,9 +6,7 @@ Var
  idade1,idade2,media : real
  nome1,nome2 : caractere
 
-
 Inicio
-
 
   escreval("Dados da primeira pessoa")
   escreva("Nome:")
